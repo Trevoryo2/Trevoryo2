@@ -1,3 +1,4 @@
+Welcome!
 - 👋 Hi, I’m Trevor
 - 👀 I’m interested in Cybersecurity or Software Development
 - 🌱 I’m currently majoring in Computer Science
