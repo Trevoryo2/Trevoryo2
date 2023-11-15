@@ -1,4 +1,4 @@
-Welcome!
+#  Welcome!
 - 👋 Hello, My Name is Trevor
 - 👀 I am a Computer Science Major interested in Cybersecurity or Software Development.
 - 🌱 I’m currently majoring in Computer Science at Lincoln Memorial University.
