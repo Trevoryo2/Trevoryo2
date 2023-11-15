@@ -1,5 +1,5 @@
 #  Welcome!
--👋 Hello, My Name is Trevor
+- 👋 Hello, My Name is Trevor
 
 # Education
 - 💻I am a Computer Science Major interested in Cybersecurity or Software Development.
