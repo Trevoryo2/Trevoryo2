@@ -2,8 +2,8 @@
 👋 Hello! My Name is Trevor.
 
 # Education
-- 💻I am a Computer Science Major interested in Cybersecurity or Software Development.
-- 👨🏻‍🎓I’m currently majoring in Computer Science at Lincoln Memorial University.
+- 💻I am interested in Cybersecurity or Server Administration.
+- 👨🏻‍🎓I’m currently majoring in Computer Science with a minor in mathematics.
 
 # Contact
 - 📭 I’m looking to collaborate on Discord or LinkedIn
