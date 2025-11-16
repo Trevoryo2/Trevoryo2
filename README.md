@@ -2,8 +2,11 @@
 👋 Hello! My Name is Trevor.
 
 # Education
-- 💻I am interested in Cybersecurity or Server Administration.
+- 💻I am interested in Cybersecurity and Server Administration.
 - 👨🏻‍🎓I’m currently majoring in Computer Science with a minor in mathematics.
+
+# Freelance
+- Currently provide FiveM server system administraion.
 
 # Contact
 - 📭 I’m looking to collaborate on Discord or LinkedIn
