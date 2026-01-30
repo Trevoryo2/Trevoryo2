@@ -6,7 +6,7 @@
 - 👨🏻‍🎓I’m currently majoring in Computer Science with a minor in mathematics.
 
 # Freelance
-- Currently provide FiveM server system administraion.
+- Currently provide server system administraion.
 
 # Contact
 - 📭 I’m looking to collaborate on Discord or LinkedIn
